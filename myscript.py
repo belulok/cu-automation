@@ -3,8 +3,8 @@ import requests
 # Constants
 API_TOKEN = 'pk_44498223_U0V6G4V0O72TYB8W4N3DCR9BBESTN8ZE'
 BASE_URL = 'https://api.clickup.com/api/v2'
-TASK1_ID = '#862kgpdh4'
-TASK2_ID = '#862kgpm18'
+TASK1_ID = '862kgpdh4'
+TASK2_ID = '862kgpm18'
 
 headers = {
     'Authorization': API_TOKEN,
